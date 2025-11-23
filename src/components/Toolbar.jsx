@@ -53,7 +53,7 @@ const Toolbar = ({ mobileSidebarOpen, setMobileSidebarOpen }) => {
 
         {/* Logo */}
         <a href="#" className="text-white font-bold text-xl mx-auto md:mx-0">
-          Graph Maker
+          ChartStudio
         </a>
 
         {/* Mobile Hamburger */}
