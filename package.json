@@ -6,6 +6,7 @@
     "node": "18.x"
   },
   "type": "module",
+  "homepage": "https://satyansh2004.github.io/chartstudio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -4,8 +4,6 @@ import Sidebar from "./components/Sidebar";
 import Chart from "./components/Chart";
 import Toolbar from "./components/Toolbar";
 
-const API_KEY = import.meta.env.VITE_OPENAI_API_KEY;
-
 export default function App() {
   const [rows, setRows] = useState([]);
   const [chartType, setChartType] = useState("bar");

@@ -8,6 +8,6 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
-  base: '/chart/',
+  base: '/chartstudio/',
   
 })
